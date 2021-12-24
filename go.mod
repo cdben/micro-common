@@ -1,4 +1,4 @@
-module github.com/cdben/gomicro/common
+module github.com/cdben/micro-common
 
 go 1.17
 
